@@ -1,0 +1,41 @@
+.egalloc_title {
+    margin: 80px 0px 80px 0px;
+}
+
+#main_img {
+    width: 330px;
+    height: 330px;
+    margin: 0px 0px 100px 0px;
+}
+
+.main_category {
+    text-align: left;
+    margin: 0px 0px 10px 0px;
+    border-bottom: solid 2px;
+    width: 330px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    width: auto;
+    background-color: #bebebe;
+    margin: 200px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a498ff;
+}
+
+a:active {
+    color: #b5b5b5;
+}
+
+a:visit {
+    color: #000000;
+}
