@@ -2,6 +2,19 @@
     margin: 80px 0px 80px 0px;
 }
 
+.egalloc_title a {
+    display: block;
+    text-decoration: none;
+}
+
+.egalloc_title a:hover {
+    color: black;
+}
+
+.egalloc_title a:active {
+    color: none;
+}
+
 #main_img {
     width: 330px;
     height: 330px;
@@ -18,9 +31,9 @@
 footer {
     color: white;
     text-align: center;
-    width: auto;
+    width: 330px;
     background-color: #bebebe;
-    margin: 200px 0px 0px 0px;
+    margin: 40px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }
 

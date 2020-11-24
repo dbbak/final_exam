@@ -2,6 +2,19 @@
     margin: 80px 0px 30px 0px;
 }
 
+.egalloc_title a {
+    display: block;
+    text-decoration: none;
+}
+
+.egalloc_title a:hover {
+    color: black;
+}
+
+.egalloc_title a:active {
+    color: black;
+}
+
 section {
     text-align: center;
     border: solid 4px;
@@ -36,13 +49,13 @@ section {
     font-weight: 100;
 }
 
-a {
+section a {
     font-size: 13px;
     color: #a498ff;
     text-decoration: none;
 }
 
-a:hover {
+section a:hover {
     color: #ff1e97;
 }
 
@@ -61,13 +74,4 @@ a:hover {
 #banner {
     width: 658px;
     margin-top: 30px;
-}
-
-footer {
-    color: white;
-    text-align: center;
-    width: auto;
-    background-color: #bebebe;
-    margin: 200px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
 }
