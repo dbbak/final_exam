@@ -1,24 +1,15 @@
 .egalloc_title {
     color: black;
-    margin: 80px 0px 30px 0px;
+    margin: 80px 0px 0px 0px;
 }
 
-.egalloc_title a {
-    display: block;
-    text-decoration: none;
-}
-
-.egalloc_title a:hover {
-    color: black;
-}
-
-.egalloc_title a:active {
-    color: black;
+#title_img {
+    width: 395px
 }
 
 section {
     text-align: center;
-    border: solid 4px;
+    border: double 7px;
     width: 650px;
     margin: 0px auto;
     padding-top: 80px;
@@ -73,6 +64,6 @@ section a:hover {
 }
 
 #banner {
-    width: 658px;
-    margin-top: 30px;
+    width: 664px;
+    margin-top: 10px;
 }
