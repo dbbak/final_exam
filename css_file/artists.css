@@ -1,0 +1,19 @@
+h2 {
+    font-weight: 500;
+    color: #717171;
+    margin: 10px 0px 60px 0px;
+}
+
+#other_img {
+    width: 450px;
+    height: 200px;
+}
+
+a:hover {
+    opacity: 80%;
+}
+
+footer {
+    width: 455px;
+    margin-top: 1px;
+}
