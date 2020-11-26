@@ -22,7 +22,6 @@
 .main_category {
     text-align: left;
     margin: 0px 0px 10px 0px;
-    border-bottom: solid 2px;
     width: 340px;
 }
 
@@ -36,6 +35,7 @@ footer {
 }
 
 a{
+    color: #717171;
     text-decoration: none;
 }
 
