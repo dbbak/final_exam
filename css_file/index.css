@@ -20,8 +20,10 @@
 }
 
 .main_category {
+    border-bottom: solid 2px;
     text-align: left;
-    margin: 0px 0px 10px 0px;
+    margin: 0px 0px 20px 0px;
+    padding-bottom: 10px;
     width: 340px;
 }
 
