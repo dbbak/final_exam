@@ -25,7 +25,7 @@ p {
 }
 
 table {
-    border-bottom: solid 1px;
+    border-bottom: dotted 1px;
     width: 500px;
     margin: 0px 0px 55px 0px;
     padding-bottom: 50px;
